@@ -274,7 +274,7 @@ header .navigation .navigation-items a:hover:before{
     float: right;
     width: 40%;
     position: relative;
-    bottom: 450px;
+    bottom: 353px;
     left: 390px;
 }
 
@@ -1042,6 +1042,6 @@ header .navigation .navigation-items a:hover:before{
         margin-top: 0px;
     }
     .content h1{
-        font-size: 5em;
+        font-size: 3.5em;
     }
 }
