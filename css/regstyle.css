@@ -623,7 +623,7 @@ header .navigation .navigation-items{
   @media (max-width:1040px){
     .wrapper{
         height: 90vh;
-        padding: 10px 10px 0px;
+        padding: 10px 10px 7px;
     width: 95%;
     margin-left: 10px;
     }
