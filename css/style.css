@@ -1036,6 +1036,12 @@ header .navigation .navigation-items a:hover:before{
 
 @media(max-width: 412px){
     .about p{
-        font-size: 1.7em;
+        font-size: 1.4em;
+    }
+    .content p{
+        margin-top: 0px;
+    }
+    .content h1{
+        font-size: 5em;
     }
 }
