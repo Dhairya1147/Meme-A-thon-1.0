@@ -1,4 +1,4 @@
-let wrapper = document.querySelector('.wrapper'),
+let wrapper = document.querySelector('.wrapper2'),
     signUpLink = document.querySelector('.link .signup-link'),
     signInLink = document.querySelector('.link .signin-link');
 
